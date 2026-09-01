@@ -24,23 +24,30 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to clone a git repository to my desktop
+-  how to create and edit files
+	- how to use git status to make sure something changes
+	- how to add and commit using git bash
 
 **I struggled with:** (repeat as needed)
-- .
+- .Accessing git bash
+
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- .https://education.github.com/git-cheat-sheet-education.pdf
+- https://try.github.io/
+- https://medium.com/data-science/a-crash-course-on-version-control-and-git-github-5d04e7933070
+- 
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . the links you had in module
 
 ---
 ## Copyrights and License
